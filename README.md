@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tenzin Rabgang
+- 👋 Hi, I’m @TR
 - 👀 I’m interested in Cyber Security     
 - 🌱 I’m currently learning Cyber Security Bootcamp @Monash University 
 - 💞️ I’m looking to collaborate on Cyber Security Trends and Innovations
